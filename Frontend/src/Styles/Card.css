@@ -1,0 +1,20 @@
+.tags{display:block;}
+
+.discription{display:block;}
+.medication{
+   
+    display: block;
+    /* position:relative; */
+}
+
+.iconx{
+    position:relative;
+    top:0px;
+    right:30px;
+    color:black;
+    /* background-color: white; */
+}
+
+.line{
+    height:100px; width:100%; border-width:0; color:black; background-color:black;
+}
